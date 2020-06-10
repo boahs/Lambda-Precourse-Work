@@ -1,0 +1,39 @@
+h1 {
+    text-align:center;
+    border:red;
+    background-color:green;
+    margin:120px;
+    padding:80px;
+    position: static;
+  }
+  #a{
+    text-align:right;
+    height:42px;
+    margin:215px;
+    padding:40px;
+    background-color:black;
+    color:yellow;
+    display: inline;
+  }
+  p {
+  font-size:32px;
+  }
+  
+  #light{
+    background:black;
+    color:white;
+  }
+  
+  #heavy{
+   color:red;
+   width:42px;
+  }
+  
+  
+  .fit-picture{
+    width: 1080px;
+  }
+  
+  .list{
+    color:green;
+  }
