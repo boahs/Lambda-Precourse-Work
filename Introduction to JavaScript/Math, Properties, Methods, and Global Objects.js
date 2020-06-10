@@ -15,7 +15,7 @@ function exampleExercise(num1, num2){
   function exerciseOne(num1, num2){
     // In this exercise, you will be given two variables, they will be called: num1 and num2
     // On the next line create a variable called 'sum' and using math operators return num1 added to num2
-    
+    const sum = num1 + num2;
     
     // Please write your answer in the line above.
     return sum;
@@ -24,7 +24,7 @@ function exampleExercise(num1, num2){
   function exerciseTwo(num1, num2){
     // In this exercise, you will be given two variables, they will be called: num1 and num2
     // On the next line create a variable called 'product' and using math operators return num1 multiplied by num2
-    
+    const product = num1 * num2;
     
     // Please write your answer in the line above.
     return product;
@@ -33,7 +33,7 @@ function exampleExercise(num1, num2){
   function exerciseThree(str){
     // In this exercise, you will be given a variable, it will be called: str
     // On the next line create a variable called 'length' and using the length property assign the new variable to the length of str
-    
+    const length = str.length;
     
     // Please write your answer in the line above.
     return length;
@@ -42,7 +42,8 @@ function exampleExercise(num1, num2){
   function exerciseFour(num1){
     // In this exercise, you will be given a variable, it will be called: num1
     // On the next line create a variable called 'rounded'. Call the Math global object's round method, passing it num1, and assign it to the rounded variable.
-    
+    const rounded = Math.round(num1);
+  
     
     // Please write your answer in the line above.
     return rounded;
