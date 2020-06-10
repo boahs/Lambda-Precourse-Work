@@ -1,0 +1,12 @@
+.multiClass {
+    background-color: blue;
+    color: green;
+    font-family: "Times New Roman", Times, serif;
+      
+}
+
+#singleClass {
+    background-color: red;
+    color: magenta;
+    font-family: monospace;
+}
